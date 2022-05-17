@@ -92,6 +92,7 @@ button {
 .header__logo {
   padding-top: 24px;
   padding-bottom: 25px;
+  margin-right: 92px;
 }
 
 .logo {
@@ -102,7 +103,6 @@ button {
   font-size: 26px;
   line-height: 1.2;
   letter-spacing: 0.03em;
-  margin-right: 92px;
 }
 
 .logo--dark {
@@ -296,7 +296,7 @@ footer {
 }
 
 .phonetic-div {
-  margin-left: 93px;
+  margin-left: auto;
 }
 
 .phonetic {
